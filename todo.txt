@@ -1,0 +1,6 @@
+- improve and speedup translation
+- do not replace audio track but reduce its volume, while add translated track on top of it
+- stream translated video to file instead waiting til whole file is translated
+- diarization
+- add captions to video
+ 
